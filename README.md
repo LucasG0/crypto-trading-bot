@@ -1,6 +1,6 @@
 # Crypto Currency Trading Bot
 
-A little side-project called **Zbot** inspired by github user @bwentzloff.
+A side-project called **Zbot** inspired by github user @bwentzloff.
 
 Created with @Adriy1
 
