@@ -7,7 +7,7 @@ Created with @Adriy1
 
 ## Description
 
-A trading bot which can take buy or short positions. It features:
+A trading bot which can take long or short positions on cryptocurrency market. It features:
 - Semi-Automated Trading (only signals for now)
 - Strategies based on financial indicators or deep learning (LSTM)
 - Support of Poloniex exchange
