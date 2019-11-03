@@ -1,1 +1,1 @@
-__all__ = ["botstrategy", "SRsi", "SRsiDiv","SSaitta","SStochastique","SLSTM"]
+__all__ = ["botstrategy", "SRsi", "SRsiDiv","SSaitta","SStochastic","SLSTM"]
